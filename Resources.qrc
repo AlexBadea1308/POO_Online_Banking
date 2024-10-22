@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/loginbackground.jpg</file>
+        <file>img/background.png</file>
+        <file>img/user.jpg</file>
+        <file>img/SignUpBackground.jpg</file>
+        <file>img/ForgotPasswordBackground.jpg</file>
+        <file>img/Questions_Securrity.jpg</file>
+        <file>img/bank_app_background.jpg</file>
+        <file>img/cards_logo.png</file>
+        <file>img/transfers_logo.png</file>
+        <file>img/depunere.png</file>
+        <file>img/retragere.png</file>
+        <file>img/setting_logo.png</file>
+        <file>img/back_admin.jpg</file>
+        <file>img/back_user.jpg</file>
+        <file>img/notifications.jpg</file>
+    </qresource>
+</RCC>
